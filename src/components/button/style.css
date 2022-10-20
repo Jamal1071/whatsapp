@@ -1,0 +1,19 @@
+/*
+*
+* style.css
+* @author - Jamal
+* @date - 19 october 2022
+*/
+
+
+.primary-btn {
+    background-color: #128c7e;
+    font-size: 15px;
+    border: none;
+    color: #fff;
+    padding: 15px 40px;
+    border-radius: 25px;
+}
+.btn-container {
+    padding-top: 20px;
+}
